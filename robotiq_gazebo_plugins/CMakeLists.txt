@@ -13,6 +13,7 @@ find_package(catkin REQUIRED COMPONENTS
   gazebo_ros
   gazebo_msgs
   roscpp
+  control_toolbox
   )
 
 

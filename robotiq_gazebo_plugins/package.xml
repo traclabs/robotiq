@@ -15,6 +15,7 @@
 
   <depend>gazebo_ros</depend>
   <depend>gazebo_msgs</depend>
+  <depend>control_toolbox</depend>
 
   <export>
     <gazebo_ros plugin_path="${prefix}/lib" />
